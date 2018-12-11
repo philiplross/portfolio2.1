@@ -2,12 +2,16 @@
 background-color: rgba(177, 177, 248, 0.710);
 }
 
+#overview {
+  background-color: rgba(47, 150, 26, 0.71);
+}
+
 #secTwo{
-    background-color: rgba(43, 255, 0, 0.710);
-    }
+  background-color: rgba(177, 177, 248, 0.710);
+}
 
 #secThree{
-background-color: rgba(177, 177, 248, 0.710);
+  background-color: rgba(47, 150, 26, 0.71);
 }
 
 #secOneImg {
@@ -31,6 +35,6 @@ background-color: rgba(177, 177, 248, 0.710);
 }
 
 .philCard {
-  padding: 50px;
+  padding: 5 0px;
 }
  
