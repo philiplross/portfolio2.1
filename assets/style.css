@@ -1,0 +1,32 @@
+#secOne{
+background-color: rgba(177, 177, 248, 0.710);
+}
+
+#secTwo{
+    background-color: rgba(43, 255, 0, 0.710);
+    }
+
+#secThree{
+background-color: rgba(177, 177, 248, 0.710);
+}
+
+#secOneImg {
+    width: 100%;
+    height: 100%;
+  }
+
+  #headerName {
+    font-size: 100px;
+    font-family: "Comic Sans MS", bold, sans-serif;
+    text-shadow: 3px 2px rgba(15, 15, 15, 0.712);
+
+  }
+  
+  /* still need to get image background working */
+  #gelatoPic {
+    background-image: url('/assets/img/gelato.png');
+    width: 100%;
+    height: 100%;
+    
+}
+ 
