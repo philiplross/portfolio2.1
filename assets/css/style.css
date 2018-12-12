@@ -1,3 +1,6 @@
+
+
+
 #headerSection{
   /* for straight background do below */
 /* background-color: rgba(177, 177, 248, 0.710); */
@@ -26,7 +29,7 @@ background-image: linear-gradient(-90deg, rgb(96, 212, 173), rgb(72, 121, 68));
 }
 
 #whatWeDoSection {
-  background-color: rgba(10, 10, 10, 0.71);
+  background-image: linear-gradient(-90deg, rgb(120, 148, 140), rgb(88, 88, 88));
   color: whitesmoke;
 
   
@@ -71,5 +74,5 @@ background-image: linear-gradient(-90deg, rgb(96, 212, 173), rgb(72, 121, 68));
 
 
 #contactSection{
-  background-color: rgba(177, 177, 248, 0.710);
+  background-image: linear-gradient(-90deg, rgb(27, 34, 32), rgb(88, 88, 88));
 }

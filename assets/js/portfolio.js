@@ -4,3 +4,9 @@ $(document).ready(function(){
         alert("Thank you for contacting us, we will be with you shortly.");
     });
 });
+
+
+
+$("").click(function(){
+    // action goes here!!
+  });
