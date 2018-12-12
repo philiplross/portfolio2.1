@@ -1,53 +1,70 @@
 #headerSection{
-background-color: rgba(177, 177, 248, 0.710);
+  /* for straight background do below */
+/* background-color: rgba(177, 177, 248, 0.710); */
+background-image: linear-gradient(-90deg, rgb(96, 212, 173), rgb(72, 121, 68));
 }
 
-#carousel {
-  
+#headerName {
+  font-size: 100px;
+  font-family: "Comic Sans MS", bold, sans-serif;
+  text-shadow: 3px 2px rgba(15, 15, 15, 0.712);
+
 }
+
+
+#carousel {
+  width: 100%;
+  height: 100%;
+}
+
+
 
 
 #overview {
-  background-color: rgba(47, 150, 26, 0.71);
+  background-color: rgba(186, 255, 173, 0.71);
   color: rgb(1, 4, 31);
 }
 
 #whatWeDoSection {
-  background-color: rgba(177, 177, 248, 0.710);
+  background-color: rgba(10, 10, 10, 0.71);
   color: whitesmoke;
+
+  
 }
+
+.programingLogo{
+  height: 150px;
+  width: 150px;
+}
+
+.nodePic {
+  height: 150px;
+  width: 250px;
+}
+
 
 #secTwo{
   background-color: rgba(47, 150, 26, 0.71);
 }
 
-#secThree{
-  background-color: rgba(177, 177, 248, 0.710);
-}
 
-#secOneImg {
-    width: 100%;
-    height: 100%;
-  }
 
-  #headerName {
-    font-size: 100px;
-    font-family: "Comic Sans MS", bold, sans-serif;
-    text-shadow: 3px 2px rgba(15, 15, 15, 0.712);
 
-  }
-  
+
+ 
   /* still need to get image background working */
-  #gelatoPic {
+  /* #gelatoPic {
     background-image: url('/assets/img/gelato.png');
     width: 100%;
     height: 100%;
     
-}
+} */
 
 .philCard {
   padding: 5 0px;
 }
 
 
- 
+#contactSection{
+  background-color: rgba(177, 177, 248, 0.710);
+}
