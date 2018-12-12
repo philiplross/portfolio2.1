@@ -1,17 +1,28 @@
-#secOne{
+#headerSection{
 background-color: rgba(177, 177, 248, 0.710);
 }
 
+#carousel {
+  
+}
+
+
 #overview {
   background-color: rgba(47, 150, 26, 0.71);
+  color: rgb(1, 4, 31);
+}
+
+#whatWeDoSection {
+  background-color: rgba(177, 177, 248, 0.710);
+  color: whitesmoke;
 }
 
 #secTwo{
-  background-color: rgba(177, 177, 248, 0.710);
+  background-color: rgba(47, 150, 26, 0.71);
 }
 
 #secThree{
-  background-color: rgba(47, 150, 26, 0.71);
+  background-color: rgba(177, 177, 248, 0.710);
 }
 
 #secOneImg {
@@ -37,4 +48,6 @@ background-color: rgba(177, 177, 248, 0.710);
 .philCard {
   padding: 5 0px;
 }
+
+
  
