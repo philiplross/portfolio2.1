@@ -21,6 +21,28 @@ background-image: linear-gradient(-90deg, rgb(96, 212, 173), rgb(72, 121, 68));
 }
 
 
+.carousel-caption {
+ color: greenyellow;
+}
+
+.h3title {
+  
+  font-size: 100px;
+  font-family: "Comic Sans MS", bold, sans-serif;
+  text-shadow: 3px 2px rgba(15, 15, 15, 0.712);
+
+}
+
+.carousel-caption div {
+  display:table-cell;
+  vertical-align: middle;
+  text-align:center;
+}
+
+
+
+
+
 
 
 #overview {
@@ -51,7 +73,7 @@ background-image: linear-gradient(-90deg, rgb(96, 212, 173), rgb(72, 121, 68));
 }
 
 
-#secTwo{
+#stuffIMade{
   background-color: rgba(47, 150, 26, 0.71);
 }
 
@@ -60,13 +82,7 @@ background-image: linear-gradient(-90deg, rgb(96, 212, 173), rgb(72, 121, 68));
 
 
  
-  /* still need to get image background working */
-  /* #gelatoPic {
-    background-image: url('/assets/img/gelato.png');
-    width: 100%;
-    height: 100%;
-    
-} */
+  
 
 .philCard {
   padding: 5 0px;
