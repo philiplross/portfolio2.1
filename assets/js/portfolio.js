@@ -13,3 +13,7 @@ $(document).ready(function(){
 $("").click(function(){
     // action goes here!!
   });
+
+
+// DOM HTML DEV
+//   var forum = document.getElementById("forumOne").innerHTML = "New text!";
